@@ -28,7 +28,7 @@ In order to see our data results, we are going to graph the data.
 A 3D visualization
 
 <img width="685" alt="Screen Shot 2021-10-24 at 8 31 53 PM" src="https://user-images.githubusercontent.com/25726054/138619082-ba4e1980-b0ea-48cd-adc4-07dba1defd2b.png">
-
+ 
 An Scatter plot
 
 <img width="679" alt="Screen Shot 2021-10-24 at 8 32 43 PM" src="https://user-images.githubusercontent.com/25726054/138619113-ffaba7f0-edb5-4aa6-92de-b493e2fee21b.png">
