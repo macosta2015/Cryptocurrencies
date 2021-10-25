@@ -18,6 +18,9 @@ In order to see our data results, we are going to graph the data.
 ##### Clustering Crytocurrencies Using K-Means
 <img width="695" alt="Screen Shot 2021-10-24 at 8 28 18 PM" src="https://user-images.githubusercontent.com/25726054/138618960-40a0c7f6-c64e-41cf-a54f-e80c2d049d6c.png">
 
+##### With the elbow curve telling us to use 4 clusters, we are going to create predictions.
+<img width="682" alt="Screen Shot 2021-10-24 at 8 39 10 PM" src="https://user-images.githubusercontent.com/25726054/138619396-1f91f7ed-6307-471e-a157-93a7a5c3982e.png">
+
 
 ##### The number of tradable cryptos
 <img width="691" alt="Screen Shot 2021-10-24 at 8 30 11 PM" src="https://user-images.githubusercontent.com/25726054/138619020-5e46a967-afe1-4ded-9c20-7abc43962c4b.png">
