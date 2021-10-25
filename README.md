@@ -11,7 +11,10 @@ Please note that as we are going to use unsupervised learning we really do not k
 
 We first will need to clean plenty of the data to simplify it as much as possible. From a business perspective, we will need to clean all the data that is unrelevant. 
 
-In order to see our data results, we are going to graph the data. 
+In order to see our data results, we are going to graph the data at the end. 
+
+We first clean the data several times to have more relevant data frames. 
+<img width="678" alt="Screen Shot 2021-10-24 at 8 49 46 PM" src="https://user-images.githubusercontent.com/25726054/138619818-5b153c75-5cd1-4771-9eef-340f15b54381.png">
 
 
 
